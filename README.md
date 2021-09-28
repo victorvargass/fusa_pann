@@ -27,7 +27,7 @@ python3 pytorch/inference.py audio_tagging \
 Corre el archivo bash
 
 ```
-bash fusa_scripts/0_inference_audio_tagging.sh
+bash fusa_scripts/inference_audio_tagging.sh
 ```
 
 El resultado debería desplegar en terminal algo como lo siguiente:
@@ -83,7 +83,7 @@ python3 pytorch/inference.py sound_event_detection \
 Corre el archivo bash
 
 ```
-bash fusa_scripts/0_inference_sed.sh
+bash fusa_scripts/inference_sed.sh
 ```
 
 El resultado de SED debería desplegarse en una imagen como la siguiente:
